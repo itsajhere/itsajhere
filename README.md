@@ -2,5 +2,3 @@
 Creator of the [WUYEK](https://wuyek.xyz) bot.
 
 Frontend & backend developer, using technologies such as ASP.NET Core, Django, Flask, Bootstrap, React.js, Universal Windows Platform & Jinja2.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsajhere)](https://github.com/itsajhere/github-readme-stats)
