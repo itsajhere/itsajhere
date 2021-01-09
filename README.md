@@ -1,5 +1,3 @@
-# ItsAJHere
-
 ### C#, JavaScript & Python developer.
 Creator of the [WUYEK](https://wuyek.xyz) bot.
 
